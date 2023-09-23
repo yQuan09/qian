@@ -31,3 +31,4 @@ int main()
     
     exit(0);
 }
+// 运行需要setting.txt
